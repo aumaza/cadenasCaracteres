@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1536627518 source:e:\cadenascaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1536627518 
+
+1536660533 source:/home/augusto/Poyectos/cadenasCaracteres/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
